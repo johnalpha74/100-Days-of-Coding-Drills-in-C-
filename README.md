@@ -23,20 +23,19 @@ This project is a curated, date-aligned, hands-on learning journey that blends d
 
 📁 100-days-dsa-cpp/
 ├── week-01/
-│ ├── day-01.cpp
+│ ├── day-01
 │ ├── ...
-│ └── project-01.cpp
+│ └── project-01
 ├── ...
 ├── week-15/
-│ ├── day-99.cpp
-│ ├── day-100.cpp
-│ └── project-15.cpp
+│ ├── day-99
+│ ├── day-100
+│ └── project-15
 ├── notion-tracker/
 │ └── 100_Days_of_DSA_in_CPP_Notion_Tracker.csv
 ├── schedule/
 │ └── 100_Days_of_DSA_in_CPP_FULL_Schedule.xlsx
 └── README.md
-
 
 ---
 
